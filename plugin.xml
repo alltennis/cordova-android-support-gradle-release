@@ -29,8 +29,8 @@
         <source-file src="properties.gradle" target-dir="cordova-android-support-gradle-release" />
 
         <!-- cordova-android@7-->
-        <source-file src="cordova-android-support-gradle-release.gradle" target-dir="cordova-android-support-gradle-release" />
-        <source-file src="properties.gradle" target-dir="cordova-android-support-gradle-release" />
+	<source-file src="cordova-android-support-gradle-release.gradle" target-dir="app/cordova-android-support-gradle-release" />
+	<source-file src="properties.gradle" target-dir="app/cordova-android-support-gradle-release" />
     </platform>
 
 </plugin>
